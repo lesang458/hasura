@@ -28,4 +28,4 @@ Chạy next:
 cd next
 npm install
 npm run dev
-```hasura seed apply
+```
