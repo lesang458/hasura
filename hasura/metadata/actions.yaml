@@ -1,0 +1,11 @@
+actions:
+- name: tails
+  definition:
+    kind: ""
+    handler: http://host.docker.internal:3000/tails
+custom_types:
+  enums: []
+  input_objects: []
+  objects:
+  - name: Tail
+  scalars: []

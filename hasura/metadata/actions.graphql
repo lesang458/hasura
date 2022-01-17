@@ -1,0 +1,9 @@
+type Query {
+  tails: [Tail]
+}
+
+type Tail {
+  title: String!
+  description: String!
+}
+

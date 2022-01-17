@@ -1,0 +1,1 @@
+INSERT INTO long_tails (tail) VALUES ('front'), ('data'), ('api');
