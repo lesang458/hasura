@@ -3,8 +3,10 @@
 - GraphQL endpoint will be http://localhost:8080/v1/graphql
 - Hasura Console will be available on http://localhost:8080/console
 - pgAdmin will be available on http://localhost:5050
-
-Vào pgadmin tạo db với username: postgres, host: postgres, pass: postgrespassword
+```
+Vào pgadmin: pgadmin@example.com/admin
+Tạo db với username: postgres, host: postgres, pass: postgrespassword
+```
 ```
 Cài hasura CLI
 
@@ -26,4 +28,4 @@ Chạy next:
 cd next
 npm install
 npm run dev
-```
+```hasura seed apply
